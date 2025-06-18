@@ -1,0 +1,4 @@
+admin@lab.com,admin123,true
+user01@lab.com,user123,false
+user02@lab.com,user456,false
+user03@lab.com,user789,false

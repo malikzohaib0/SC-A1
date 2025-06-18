@@ -1,0 +1,7 @@
+user1@lab.com,2023-05-16,Hardware,PC003,Logitech MX Master,Ergonomic mouse for design work,Pending
+user2@lab.com,2023-05-17,Software,PC004,Adobe Photoshop,Photo editing for thesis,Pending,ffhh
+user3@lab.com,2023-05-18,Hardware,PC006,Arduino Starter Kit,Prototyping for engineering lab,Pending
+user4@lab.com,2023-05-19,Software,PC007,Python 3.11,Data analysis course requirement,Pending
+user5@lab.com,2023-05-20,Hardware,PC008,External SSD,Extra storage for research data,Pending
+user6@lab.com,2023-05-21,Software,PC009,LaTeX,Writing scientific papers,Pending
+student@example.com,2025-06-13,Hardware,PC002,dsdfsdfs,sdfsdfsdfsfs,Pending
